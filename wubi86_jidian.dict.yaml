@@ -4573,8 +4573,8 @@ Apple	appl	20
 聚合	bcwg	20
 聚敛	bcwg	10
 取保	bcwk	10
-陖	bcwt	20
-取余	bcwt	10
+陖	bcwt	10
+取余	bcwt	11
 聚众	bcww	10
 取货	bcwx	10
 聚焦	bcwy	30
@@ -6138,8 +6138,8 @@ B站	buh	10
 险些	bwhx	10
 险滩	bwic	20
 除治	bwic	10
-除尘	bwif	20
-除法	bwif	10
+除尘	bwif	10
+除法	bwif	11
 附小	bwih	10
 除湿	bwij	10
 坠海	bwit	10
@@ -16185,8 +16185,8 @@ u	copu	10
 雫	fghu	10
 雨具	fghw	10
 干柴	fghx	10
-雨	fghy	30
-寸	fghy	20
+雨	fghy	20
+寸	fghy	30
 圷	fghy	10
 坏	fgi	10
 干渠	fgia	10
@@ -39253,6 +39253,7 @@ km/h	kmh	20
 边栏	lpsu	10
 连根	lpsv	10
 边检	lpsw	10
+边长	lpta	20
 连长	lpta	10
 连种	lptk	10
 连射	lptm	10
@@ -49700,8 +49701,8 @@ MacbookPro	mbp	10
 初会	puwf	30
 袝	puwf	20
 袵	puwf	10
-实例	puwg	30
-补全	puwg	20
+实例	puwg	20
+补全	puwg	30
 襳	puwg	10
 补修	puwh	10
 补偿	puwi	20
@@ -55737,8 +55738,8 @@ QQ	qq	10
 近卫军	rbpl	10
 报案	rbpv	10
 报社	rbpy	10
-摄氏	rbqa	20
-报错	rbqa	10
+摄氏	rbqa	10
+报错	rbqa	11
 报怨	rbqb	10
 报销	rbqi	10
 报名	rbqk	10
@@ -55989,8 +55990,8 @@ QQ	qq	10
 摊牌	rcth	10
 反复	rctj	10
 返程	rctk	10
-反射	rctm	30
-反向	rctm	20
+反射	rctm	20
+反向	rctm	30
 反身	rctm	10
 把稳	rctq	10
 掺入	rcty	10
@@ -61449,8 +61450,8 @@ QQ	qq	10
 楔	sdh	10
 栫	sdhb	10
 楔	sdhd	10
-SD卡	sdhh	20
-顶上	sdhh	10
+SD卡	sdhh	10
+顶上	sdhh	11
 椅桌	sdhj	10
 顶点	sdhk	10
 櫘	sdhn	10
@@ -62185,8 +62186,8 @@ SD卡	sdhh	20
 西祠	sgpy	10
 酌	sgq	10
 酗	sgqb	10
-本色	sgqc	20
-配色	sgqc	10
+本色	sgqc	10
+配色	sgqc	11
 要不然	sgqd	20
 枉然	sgqd	10
 配角	sgqe	10
@@ -66202,9 +66203,9 @@ SD卡	sdhh	20
 造作	tfwt	20
 稜	tfwt	10
 等分	tfwv	10
-造价	tfww	30
-行人	tfww	20
-等价	tfww	10
+造价	tfww	10
+行人	tfww	10
+等价	tfww	11
 造化	tfwx	20
 自动化	tfwx	10
 选集	tfwy	30
@@ -66506,6 +66507,7 @@ SD卡	sdhh	20
 重报	tgrb	10
 重返	tgrc	20
 策反	tgrc	10
+重排	tgrd	20
 重振	tgrd	10
 秉持	tgrf	10
 征兵	tgrg	30
@@ -66717,6 +66719,7 @@ SD卡	sdhh	20
 迮	thfp	10
 自考	thft	10
 处境	thfu	10
+自增	thfu	11
 牌坊	thfy	10
 片	thg	10
 版型	thga	30
@@ -67916,8 +67919,8 @@ SD卡	sdhh	20
 屲	tmj	10
 微明	tmje	10
 向里	tmjf	10
-微量	tmjg	20
-向量	tmjg	10
+微量	tmjg	10
+向量	tmjg	11
 向日	tmjj	10
 射电	tmjn	10
 向晚	tmjq	10
@@ -69367,8 +69370,8 @@ TF卡	ttfhh	10
 従	tuhy	10
 冬灌	tuia	10
 税源	tuid	10
-简洁	tuif	20
-乘法	tuif	10
+简洁	tuif	10
+乘法	tuif	20
 得意洋洋	tuii	10
 冬汛	tuin	10
 科学	tuip	10
@@ -71115,6 +71118,7 @@ Ubuntu	ubun	10
 决胜千里	uetj	10
 前程	uetk	10
 前身	uetm	10
+前向	uetm	20
 前科	uetu	10
 前往	uety	10
 豙	ueu	10
@@ -77921,7 +77925,7 @@ m³	uuyy	10	立方
 全区	wgaq	10
 伊丽莎白	wgar	10
 倒茶	wgaw	10
-鸽子	wgbb	40
+鸽子	wgbb	10
 例子	wgbb	30
 盒子	wgbb	20
 凳子	wgbb	10
@@ -78357,8 +78361,8 @@ m³	uuyy	10	立方
 全分	wgwv	10
 使人	wgww	10
 僵化	wgwx	10
-合集	wgwy	30
-命令	wgwy	20
+合集	wgwy	20
+命令	wgwy	30
 全集	wgwy	10
 全线	wgxg	20
 仾	wgxg	10
@@ -80573,6 +80577,7 @@ Windows	wind	10
 分局	wvnn	10
 颁发	wvnt	20
 分发	wvnt	10
+分屏	wvnu	11
 忿	wvnu	10
 仇恨	wvnv	10
 分心	wvny	10
@@ -81606,9 +81611,9 @@ Windows	wind	10
 俯身	wytm	10
 偽	wyto	10
 食管	wytp	10
-领衔	wytq	30
+领衔	wytq	10
 依稀	wytq	20
-偏移	wytq	10
+偏移	wytq	30
 食物	wytr	30
 信物	wytr	20
 依循	wytr	10
@@ -82566,8 +82571,8 @@ XBox	xbox	10
 母盘	xgte	10
 纯毛	xgtf	10
 纯利	xgtj	10
-纯种	xgtk	20
-线程	xgtk	10
+纯种	xgtk	10
+线程	xgtk	20
 线条	xgts	10
 母系	xgtx	10
 母	xgu	10
@@ -85729,8 +85734,8 @@ XBox	xbox	10
 记事本	ygsg	10
 主机	ygsm	10
 主楼	ygso	10
-评析	ygsr	20
-主板	ygsr	10
+评析	ygsr	10
+主板	ygsr	20
 高不可攀	ygss	10
 主要	ygsv	10
 评述	ygsy	10
@@ -85819,8 +85824,8 @@ XBox	xbox	10
 证词	ygyn	20
 语词	ygyn	10
 谈一谈	ygyo	10
-主义	ygyq	20
-语义	ygyq	10
+主义	ygyq	10
+语义	ygyq	20
 鹿死谁手	ygyr	10
 说来话长	ygyt	10
 评说	ygyu	10
