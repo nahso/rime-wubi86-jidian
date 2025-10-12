@@ -13,6 +13,7 @@
 # 一般字体不需要指定，指定后的字体可能会出现候选框被拉伸成过高的情况，因为不同字体的纵向高度不同，默认字体适配最好
 
 patch:
+  show_notifications_when: never
   style:
     color_scheme: roseo_maple            # 白亮模式下启用的皮肤，名字对应下方对皮肤的字义名
     color_scheme_dark: roseo_maple_dark  # 暗黑模式下启用的皮肤
