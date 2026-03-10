@@ -3045,8 +3045,8 @@ Apple	appl	20
 葱头	aqud	10
 殴斗	aquf	10
 欧美	aqug	10
-敬意	aquj	20
-区间	aquj	10
+敬意	aquj	10
+区间	aquj	20
 获奖	aquq	10
 获准	aquw	20
 获益	aquw	10
@@ -4438,6 +4438,7 @@ Apple	appl	20
 陬	bbc	10
 陬	bbcy	10
 子孙万代	bbdw	10
+子图	bblt	10
 子爵	bbel	10
 孤孤零零	bbff	10
 子堤	bbfj	10
@@ -4566,8 +4567,8 @@ Apple	appl	20
 娶	bcv	10
 娶	bcvf	10
 取代	bcwa	10
-聚会	bcwf	40
-取值	bcwf	30
+聚会	bcwf	30
+取值	bcwf	40
 取舍	bcwf	20
 联欢会	bcwf	10
 聚合	bcwg	20
@@ -6936,6 +6937,7 @@ B站	buh	10
 双胞胎	ceec	10
 通县	ceeg	10
 熊胆	ceej	10
+能用	ceet	20
 通用	ceet	10
 通脱	ceeu	10
 能及	ceey	10
@@ -9232,6 +9234,7 @@ u	copu	10
 大都	ddft	10
 大增	ddfu	10
 大雪	ddfv	10
+大堆	ddfw	20
 大夫	ddfw	10
 万寿无疆	ddfx	10
 碌碌无为	ddfy	10
@@ -14647,7 +14650,8 @@ u	copu	10
 用计	etyf	10
 用语	etyg	10
 用为	etyl	10
-用户	etyn	10
+用户	etyn	20
+用词	etyn	10
 胜迹	etyo	10
 胜诉	etyr	10
 爫	etyt	10
@@ -15576,8 +15580,8 @@ u	copu	10
 动迁	fctf	20
 支行	fctf	10
 去重	fctg	10
-去处	fcth	20
-运算	fcth	10
+去处	fcth	10
+运算	fcth	20
 运程	fctk	10
 动向	fctm	30
 去向	fctm	20
@@ -16035,8 +16039,8 @@ u	copu	10
 寺	ffu	10
 封冻	ffua	10
 墙头	ffud	10
-封闭	ffuf	20
-封装	ffuf	10
+封闭	ffuf	10
+封装	ffuf	20
 坛盖	ffug	10
 墙	ffuk	10
 土鳖	ffum	10
@@ -16106,6 +16110,7 @@ u	copu	10
 干出	fgbm	10
 坉	fgbn	10
 无理取闹	fgbu	10
+二阶	fgbw	20
 魂不附体	fgbw	10
 垤	fgc	10
 干劲	fgca	10
@@ -16974,8 +16979,8 @@ u	copu	10
 未做	fiwd	10
 塉	fiwe	10
 求值	fiwf	10
-救命	fiwg	30
-示例	fiwg	20
+救命	fiwg	20
+示例	fiwg	30
 声泪俱下	fiwg	10
 求偶	fiwj	10
 求仙	fiwm	10
@@ -19912,9 +19917,9 @@ u	copu	10
 开篇	gaty	20
 开往	gaty	10
 开瓶	gaua	10
-开关	gaud	30
-形状	gaud	20
-开头	gaud	10
+开关	gaud	20
+形状	gaud	10
+开头	gaud	30
 五黄六月	gaue	10
 武装	gauf	10
 开阔	gaui	10
@@ -23807,6 +23812,7 @@ GoPro	gpr	10
 夹击	gufm	10
 平均	gufq	10
 夹雪	gufv	10
+平替	gufw	20
 不辨真伪	gufw	10
 平壤	gufy	10
 平静	guge	10
@@ -29193,6 +29199,7 @@ iPad	ipad	20
 滨城	ipfd	10
 坣	ipff	10
 学士	ipfg	10
+深超	ipfh	20
 瀽	ipfh	10
 演示	ipfi	20
 淙	ipfi	10
@@ -29253,8 +29260,8 @@ iPhone	ipho	10
 沉没	ipim	10
 浓汤	ipin	10
 浓淡	ipio	10
-深深	ipip	50
-常常	ipip	40
+深深	ipip	40
+常常	ipip	50
 深沉	ipip	30
 沉淀	ipip	20
 尝尝	ipip	10
@@ -30368,6 +30375,7 @@ iPod	ipod	10
 泛	itp	10
 活字	itpb	10
 活塞	itpf	10
+洗完	itpf	20
 活宝	itpg	10
 海军	itpl	10
 当务之急	itpq	10
@@ -34058,6 +34066,7 @@ iPod	ipod	10
 归结	jvxf	10
 归纳	jvxm	10
 照给	jvxw	10
+归约	jvxq	10
 照度	jvya	10
 照应	jvyi	10
 照遍	jvyn	10
@@ -37378,8 +37387,8 @@ km/h	kmh	20
 噙	kwyc	20
 呤	kwyc	10
 喰	kwye	10
-吟诗	kwyf	20
-只读	kwyf	10
+吟诗	kwyf	10
+只读	kwyf	20
 唯	kwyg	10
 唅	kwyk	20
 嗆	kwyk	10
@@ -39631,6 +39640,7 @@ km/h	kmh	20
 力挽	ltrq	10
 力拼	ltru	10
 力挫	ltrw	10
+力势	ltrv	10
 输入框	ltsa	10
 图标	ltsf	10
 图板	ltsr	10
@@ -42070,8 +42080,8 @@ MacbookPro	mbp	10
 败絮	mtvk	10
 购物袋	mtwa	10
 败仗	mtwd	10
-贬值	mtwf	30
-峰值	mtwf	20
+贬值	mtwf	20
+峰值	mtwf	30
 峰会	mtwf	10
 几个	mtwh	30
 嵷	mtwh	20
@@ -42322,7 +42332,7 @@ MacbookPro	mbp	10
 见仁见智	mwmt	20
 赊账	mwmt	10
 内忧	mwnd	10
-内层	mwnf	10
+内层	mwnf	20
 内情	mwng	10
 巋	mwnh	10
 内壁	mwnk	10
@@ -43229,6 +43239,7 @@ MacbookPro	mbp	10
 尉迟	nfny	10
 丑类	nfod	10
 懗	nfoo	10
+导数	nfov	20
 层数	nfov	10
 迅	nfp	10
 悖	nfpb	10
@@ -44373,8 +44384,8 @@ MacbookPro	mbp	10
 快要	nnsv	10
 尸检	nnsw	10
 局长	nnta	10
-书籍	nntd	20
-已知	nntd	10
+书籍	nntd	10
+已知	nntd	20
 快艇	nnte	10
 羽毛	nntf	10
 书生	nntg	10
@@ -49703,8 +49714,8 @@ MacbookPro	mbp	10
 初会	puwf	30
 袝	puwf	20
 袵	puwf	10
-实例	puwg	20
-补全	puwg	30
+实例	puwg	30
+补全	puwg	20
 襳	puwg	10
 补修	puwh	10
 补偿	puwi	20
@@ -49732,7 +49743,7 @@ MacbookPro	mbp	10
 补缀	puxc	10
 初级	puxe	20
 褖	puxe	10
-实绩	puxg	10
+实线	puxg	10
 襁	puxj	10
 袎	puxl	10
 初绽	puxp	10
@@ -56221,9 +56232,9 @@ QQ	qq	10
 排卵	rdqy	10
 拜把	rdrc	10
 拜拜	rdrd	10
-拜年	rdrh	30
+拜年	rdrh	10
 拔掉	rdrh	20
-拓扑	rdrh	10
+拓扑	rdrh	30
 排挡	rdri	10
 挑三拣四	rdrl	10
 所有制	rdrm	10
@@ -58202,6 +58213,7 @@ QQ	qq	10
 氘	rnj	10
 握紧	rnjc	10
 氜	rnjf	10
+所里	rnjf	20
 气量	rnjg	10
 刏	rnjh	20
 氠	rnjh	10
@@ -59514,8 +59526,8 @@ QQ	qq	10
 拖地	rtfb	20
 郫	rtfb	10
 手动	rtfc	40
-拖动	rtfc	30
-搬运	rtfc	20
+搬运	rtfc	30
+拖动	rtfc	20
 托运	rtfc	10
 拖垮	rtfd	10
 鹎	rtfg	10
@@ -59807,8 +59819,8 @@ QQ	qq	10
 拦蓄	ruay	10
 搠	rub	10
 掸子	rubb	10
-摘取	rubc	20
-拉取	rubc	10
+摘取	rubc	10
+拉取	rubc	20
 拦阻	rube	20
 搠	rube	10
 打头阵	rubl	10
@@ -60109,8 +60121,8 @@ QQ	qq	10
 扫除	rvbw	10
 热劲	rvca	10
 揤	rvcb	10
-热能	rvce	20
-势能	rvce	10
+热能	rvce	10
+势能	rvce	20
 摡	rvcq	10
 扫码	rvdc	20
 挚友	rvdc	10
@@ -61750,6 +61762,7 @@ SD卡	sdhh	10
 構	sfjf	20
 檊	sfjf	10
 标题	sfjg	20
+标量	sfjg	30
 枾	sfjg	10
 瓢虫	sfjh	10
 飘曳	sfjx	10
@@ -63039,6 +63052,7 @@ SD卡	sdhh	10
 机绣	smxt	10
 机缘	smxx	10
 梖	smy	10
+机试	smya	20
 机谋	smya	10
 机译	smyc	10
 枬	smyg	10
@@ -66160,8 +66174,8 @@ SD卡	sdhh	10
 行商	tfum	10
 先决	tfun	10
 先帝	tfup	10
-行将	tfuq	30
-等效	tfuq	20
+行将	tfuq	20
+等效	tfuq	30
 造次	tfuq	10
 等闲	tfus	10
 街道	tfut	10
@@ -66537,6 +66551,7 @@ SD卡	sdhh	10
 生相	tgsh	10
 臭不可当	tgsi	10
 生机	tgsm	10
+重构	tgsq	20
 垂柳	tgsq	10
 臭不可闻	tgsu	10
 重要	tgsv	10
@@ -66665,6 +66680,7 @@ SD卡	sdhh	10
 籧	thap	10
 簴	thaw	10
 牌匾	thay	10
+算子	thbb	40
 牌子	thbb	30
 鼻子	thbb	20
 片子	thbb	10
@@ -66977,7 +66993,7 @@ SD卡	sdhh	10
 自毁	thva	10
 自好	thvb	10
 息怒	thvc	10
-自寻	thvf	10
+自建	thvf	10
 自如	thvk	10
 牌九	thvt	10
 处女	thvv	10
@@ -68017,9 +68033,9 @@ SD卡	sdhh	10
 射箭	tmtu	10
 向往	tmty	10
 筫	tmu	10
-向着	tmud	30
-秃头	tmud	20
-躺着	tmud	10
+向着	tmud	20
+秃头	tmud	10
+躺着	tmud	30
 向前	tmue	10
 徽章	tmuj	10
 身旁	tmup	10
@@ -68065,8 +68081,8 @@ SD卡	sdhh	10
 躲让	tmyh	10
 秃鹫	tmyi	10
 身为	tmyl	10
-身高	tmym	20
-微调	tmym	10
+身高	tmym	10
+微调	tmym	20
 颓废	tmyn	30
 身亡	tmyn	20
 微词	tmyn	10
@@ -68793,8 +68809,8 @@ T恤	tntl	10
 特快	trnn	10
 鵝	trno	20
 鵞	trno	10
-我	trnt	20
-特性	trnt	10
+我	trnt	10
+特性	trnt	20
 我心	trny	10
 物类	trod	10
 物业	trog	20
@@ -69546,7 +69562,6 @@ TF卡	ttfhh	10
 魏碑	tvdr	10
 千娇百媚	tvdv	10
 很	tve	10
-处女膜	tvea	10
 簋	tvel	10
 很受	tvep	10
 很	tvey	10
@@ -69740,8 +69755,8 @@ TF卡	ttfhh	10
 黏糊	twod	10
 答数	twov	10
 黏米	twoy	10
-生僻字	twpb	20
-签字	twpb	10
+生僻字	twpb	10
+签字	twpb	20
 籂	twph	10
 知人之明	twpj	10
 千分之	twpp	20
@@ -72631,8 +72646,8 @@ Ubuntu	ubun	10
 疝	umk	20
 閊	umk	10
 商号	umkg	10
-商品	umkk	20
-端口	umkk	10
+商品	umkk	10
+端口	umkk	20
 商团	umlf	10
 辛迪加	umlk	10
 商圈	umlu	10
@@ -73458,8 +73473,8 @@ Ubuntu	ubun	10
 尊重	ustg	30
 新生	ustg	20
 亲生	ustg	10
-亲自	usth	20
-新版	usth	10
+亲自	usth	10
+新版	usth	20
 亲和	ustk	10
 亲身	ustm	10
 新翻	usto	10
@@ -81237,8 +81252,8 @@ Windows	wind	10
 货主	wxyg	20
 华语	wxyg	10
 货店	wxyh	10
-化为	wxyl	20
-华为	wxyl	10
+化为	wxyl	10
+华为	wxyl	20
 倾谈	wxyo	10
 华亭	wxyp	10
 倾诉	wxyr	10
@@ -82495,8 +82510,8 @@ XBox	xbox	10
 约瑟夫	xgfw	10
 线形	xgga	10
 纯青	xgge	10
-纯正	xggh	20
-线下	xggh	10
+纯正	xggh	10
+线下	xggh	20
 纯平	xggu	10
 絚	xghg	10
 线上	xghh	10
@@ -82537,8 +82552,8 @@ XBox	xbox	10
 緉	xgmy	20
 績	xgmy	10
 纯情	xgng	10
-纯属	xgnt	30
-线性	xgnt	20
+纯属	xgnt	20
+线性	xgnt	30
 母性	xgnt	10
 彝	xgo	10
 彝	xgoa	20
@@ -83750,6 +83765,7 @@ XBox	xbox	10
 乡里	xtjf	30
 乡野	xtjf	20
 比利时	xtjf	10
+张量	xtjg	20
 疑是	xtjg	10
 绦虫	xtjh	10
 终日	xtjj	10
@@ -85765,8 +85781,8 @@ XBox	xbox	10
 语病	ygug	10
 评	yguh	20
 評	yguh	10
-主意	yguj	20
-语音	yguj	10
+主意	yguj	10
+语音	yguj	20
 请问	yguk	10
 评奖	yguq	30
 主次	yguq	20
@@ -86498,7 +86514,7 @@ XBox	xbox	10
 设防	ymby	10
 设	ymc	10
 调戏	ymca	10
-高参	ymcd	10
+调参	ymcd	10
 高能	ymce	10
 高台	ymck	10
 高难	ymcw	10
@@ -86768,8 +86784,8 @@ XBox	xbox	10
 高强	ymxk	10
 设疑	ymxt	10
 高弹	ymxu	10
-高度	ymya	30
-调试	ymya	20
+高度	ymya	20
+调试	ymya	30
 调度	ymya	10
 调离	ymyb	10
 调序	ymyc	10
@@ -86936,6 +86952,7 @@ XBox	xbox	10
 麌	ynjd	10
 朚	ynje	20
 麎	ynje	10
+记时	ynjf	50
 遍野	ynjf	40
 麝	ynjf	30
 塵	ynjf	20
@@ -89044,6 +89061,7 @@ YouTube	ytb	10
 广大	yydd	10
 方有	yyde	10
 访古	yydg	10
+访存	yydh	20
 高高在上	yydh	10
 方面	yydm	10
 方成	yydn	10
