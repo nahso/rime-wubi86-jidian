@@ -6664,6 +6664,7 @@ B站	buh	10
 歠	cccw	10
 骖	ccd	10
 双雄	ccdc	10
+又有	ccde	20
 骖	ccde	10
 双唇	ccdf	10
 双百	ccdj	10
@@ -14631,6 +14632,7 @@ u	copu	10
 腇	etvg	10
 乃翁	etwc	10
 胜仗	etwd	10
+用例	etwg	20
 用命	etwg	10
 豵	etwh	10
 胜似	etwn	10
@@ -16676,7 +16678,7 @@ u	copu	10
 超重	fhtg	30
 起重	fhtg	20
 超生	fhtg	10
-起算	fhth	10
+超算	fhth	10
 趋利	fhtj	10
 趫	fhtk	10
 走向	fhtm	50
@@ -21069,6 +21071,7 @@ u	copu	10
 一千	ggtf	20
 一等	ggtf	10
 一生	ggtg	10
+一版	ggth	30
 一片	ggth	20
 王牌	ggth	10
 一秒	ggti	10
@@ -22006,6 +22009,7 @@ u	copu	10
 郚	gkbh	10
 副职	gkbk	10
 带出	gkbm	10
+整除	gkbw	30
 带队	gkbw	20
 整队	gkbw	10
 带劲	gkca	10
@@ -24272,6 +24276,7 @@ GoPro	gpr	10
 素称	gxtq	10
 毒物	gxtr	10
 毒箭	gxtu	10
+母版	gxth	10
 毒瘾	gxub	20
 素闻	gxub	10
 素养	gxud	10
@@ -25208,6 +25213,7 @@ HDR	hdr	10
 上分	hhwv	10
 上人	hhww	10
 上货	hhwx	10
+卡住	hhwy	30
 止住	hhwy	20
 瞿	hhwy	10
 眦	hhx	10
@@ -25583,6 +25589,7 @@ HDR	hdr	10
 战俘	hkwe	10
 战例	hkwg	10
 虎口余生	hkwt	10
+占位	hkwu	20
 点位	hkwu	10
 占分	hkwv	10
 点化	hkwx	10
@@ -33149,6 +33156,7 @@ iPod	ipod	10
 显	jo	10
 显著	joaf	10
 显荣	joap	10
+显式	joaa	10
 显出	jobm	10
 显隐	jobq	10
 显能	joce	10
@@ -35280,9 +35288,9 @@ iPod	ipod	10
 嘘声	khfn	20
 遗志	khfn	10
 足赤	khfo	10
-路过	khfp	40
-跨过	khfp	30
-跳过	khfp	20
+路过	khfp	30
+跨过	khfp	20
+跳过	khfp	40
 躂	khfp	10
 跳远	khfq	20
 蹺	khfq	10
@@ -35405,9 +35413,9 @@ iPod	ipod	10
 中叶	khkf	10
 中号	khkg	20
 呫	khkg	10
-跳跃	khkh	60
+跳跃	khkh	40
 踊跃	khkh	50
-跟踪	khkh	40
+跟踪	khkh	60
 蹉跎	khkh	30
 蹭蹭	khkh	20
 踀	khkh	10
@@ -54806,6 +54814,7 @@ QQ	qq	10
 银	qve	10
 银月	qvee	10
 争逐	qvep	10
+争用	qvet	20
 急用	qvet	10
 争脸	qvew	10
 银	qvey	20
@@ -61761,8 +61770,8 @@ SD卡	sdhh	10
 榸	sfjf	30
 構	sfjf	20
 檊	sfjf	10
-标题	sfjg	20
-标量	sfjg	30
+标题	sfjg	30
+标量	sfjg	20
 枾	sfjg	10
 瓢虫	sfjh	10
 飘曳	sfjx	10
@@ -66565,6 +66574,7 @@ SD卡	sdhh	10
 重重	tgtg	30
 重生	tgtg	20
 甡	tgtg	10
+重算	tgth	30
 惩处	tgth	20
 生息	tgth	10
 重复	tgtj	30
@@ -81442,8 +81452,8 @@ Windows	wind	10
 今晚	wyjq	20
 停歇	wyjq	10
 俯览	wyjt	10
-依照	wyjv	20
-仿照	wyjv	10
+依照	wyjv	10
+仿照	wyjv	20
 售	wyk	10
 依顺	wykd	10
 儴	wyke	10
@@ -84418,8 +84428,8 @@ XBox	xbox	10
 幽灵	xxvo	10
 幽婉	xxvp	10
 编织袋	xxwa	10
-幽会	xxwf	20
-比值	xxwf	10
+幽会	xxwf	10
+比值	xxwf	20
 比例	xxwg	10
 幽僻	xxwn	10
 缘何	xxws	20
