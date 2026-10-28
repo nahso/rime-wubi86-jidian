@@ -6472,6 +6472,7 @@ B站	buh	10
 预警	cbaq	10
 骤降	cbbt	10
 预防	cbby	10
+预取	cbbc	10
 骤	cbc	10
 驰驱	cbca	10
 柔柔	cbcb	10
@@ -10495,8 +10496,8 @@ u	copu	10
 慼	dhin	10
 在学	dhip	10
 在逃	dhiq	10
-戚	dhit	20
-存活	dhit	10
+戚	dhit	10
+存活	dhit	20
 丰润	dhiu	10
 破浪	dhiy	10
 破晓	dhja	10
@@ -15378,7 +15379,6 @@ u	copu	10
 喜出望外	fbyq	10
 地府	fbyw	10
 地方	fbyy	20
-过了这村没这店	fbyy	10
 支	fc	10
 动工	fcaa	10
 劫匪	fcad	10
@@ -21150,6 +21150,7 @@ u	copu	10
 一张	ggxt	10
 瑇	ggxu	10
 王维	ggxw	10
+五维	ggxw	20
 一丝	ggxx	20
 琵	ggxx	10
 一统	ggxy	20
@@ -37331,6 +37332,7 @@ km/h	kmh	20
 唯实	kwpu	10
 嗲	kwq	10
 哗然	kwqd	10
+哈希	kwqd	20
 贵人多忘事	kwqg	10
 只够	kwqk	10
 嗲	kwqq	10
@@ -41846,8 +41848,8 @@ MacbookPro	mbp	10
 网店	mqyh	10
 见识	mqyk	10
 嵧	mqyl	10
-购房	mqyn	20
-风扇	mqyn	10
+购房	mqyn	10
+风扇	mqyn	20
 网恋	mqyo	10
 见底	mqyq	10
 风靡	mqys	10
@@ -70880,6 +70882,7 @@ Ubuntu	ubun	10
 癧	udth	10
 头破血流	udti	10
 意大利	udtj	10
+卷积	udtk	20
 总面积	udtk	10
 羳	udtl	10
 差役	udtm	10
